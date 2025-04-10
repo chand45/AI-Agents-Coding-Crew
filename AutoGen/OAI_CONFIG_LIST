@@ -1,0 +1,9 @@
+[
+    {
+        "model": "gpt-4-32k",
+        "api_key": "", // azure openai api key
+        "base_url": "", // azure openai api endpoint, e.g. https://<your-resource-name>.openai.azure.com
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    }
+]
